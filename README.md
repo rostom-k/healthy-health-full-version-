@@ -1,3 +1,11 @@
+am not very familiar with github so i just dropped a few of my code right here there is the full entities and a bit of the src also the full landing page code and some little bonus cause i was doing some test while coding you can find them in this file right here and the code below are the entities and src       [healthy health LANDING  page code and design and entities test .zip](https://github.com/user-attachments/files/29215056/healthy.health.LANDING.page.code.and.design.and.entities.test.zip)
+
+
+
+
+
+
+
 "name": "AnimalJournalEntry",
   "type": "object",
   "properties": {
